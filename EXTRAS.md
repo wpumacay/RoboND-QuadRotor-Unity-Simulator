@@ -44,3 +44,22 @@ These are the features exposed to the user using the appropiate keys :
 ### _**Batch recording**_
 
 This is the main feature I made these changes for. This allows the user to send a single request to record data from all schedules so far. It does so one by one until all have finished recording the data (each one is hard-coded to take a batch of 1000 images, for now, but can be extracted to another option).
+
+## New features in action
+
+*   _**Creating and navigating schedules**_
+
+![](./imgs/gif_feature_creating_navigating_schedules.gif)
+
+*   _**Deleting schedules**_
+
+![](./imgs/gif_feature_deleting_schedules.gif)
+
+*   _**Loading previously saved schedules**_
+
+![](./imgs/gif_feature_loading_schedules.gif)
+
+*   _**Batch Recording**_
+
+![](./imgs/gif_feature_batch_recording.gif)
+
